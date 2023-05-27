@@ -2,8 +2,8 @@
 /**
 * Esto es un ejemplo de documentación de PHP
 * @author Emilio
-* @version 1.0.1
-*@access public
+* @version 1.0.2
+* @access public
 *
 */
 
