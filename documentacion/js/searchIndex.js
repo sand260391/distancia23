@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\suma\u0028\u0029",
+            "name": "suma",
+            "summary": "Esta\u0020funci\u00F3n\u0020devuelve\u0020la\u0020suma\u0020de\u0020los\u0020argumentos\nenviados\u0020en\u0020la\u0020llamada",
+            "url": "namespaces/default.html#function_suma"
+        },                {
+            "fqsen": "\\resta\u0028\u0029",
+            "name": "resta",
+            "summary": "Esta\u0020funci\u00F3n\u0020devuelve\u0020la\u0020resta\u0020de\u0020los\u0020argumentos\nenviados\u0020en\u0020la\u0020llamada",
+            "url": "namespaces/default.html#function_resta"
+        },                {
+            "fqsen": "\\saluda\u0028\u0029",
+            "name": "saluda",
+            "summary": "Esta\u0020funci\u00F3n\u0020devuelve\u0020un\u0020saludo\u0020con\u0020el\u0020nombre\u0020que\u0020le\nenviamos\u0020en\u0020la\u0020llamada",
+            "url": "namespaces/default.html#function_saluda"
+        },                {
+            "fqsen": "\\MiClase",
+            "name": "MiClase",
+            "summary": "Este\u0020script\u0020muestra\u0020una\u0020clase\u0020simple\u0020en\u0020PHP\u0020con\u0020dos\u0020m\u00E9todos\u0020de\u0020ejemplo.",
+            "url": "classes/MiClase.html"
+        },                {
+            "fqsen": "\\MiClase\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Constructor\u0020de\u0020la\u0020clase.",
+            "url": "classes/MiClase.html#method___construct"
+        },                {
+            "fqsen": "\\MiClase\u003A\u003Asaludar\u0028\u0029",
+            "name": "saludar",
+            "summary": "Saluda\u0020utilizando\u0020el\u0020nombre\u0020almacenado.",
+            "url": "classes/MiClase.html#method_saludar"
+        },                {
+            "fqsen": "\\MiClase\u003A\u003Adespedir\u0028\u0029",
+            "name": "despedir",
+            "summary": "Se\u0020despide\u0020utilizando\u0020el\u0020nombre\u0020almacenado.",
+            "url": "classes/MiClase.html#method_despedir"
+        },                {
+            "fqsen": "\\MiClase\u003A\u003A\u0024nombre",
+            "name": "nombre",
+            "summary": "",
+            "url": "classes/MiClase.html#property_nombre"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
